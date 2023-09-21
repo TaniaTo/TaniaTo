@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![image](https://github.com/TaniaTo/TaniaTo/assets/79595311/1333b4cc-d4a5-47eb-8159-6ffba6cc5436)
 
 <!--
 **TaniaTo/TaniaTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
