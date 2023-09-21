@@ -5,16 +5,17 @@ Hi I am Tania :raised_hand_with_fingers_splayed:
 Software engineering looking for a job in a national or international
 company that allows me to learn and grow professionally.
 I am a person eager to learn new technological tools with a great desire
-and capacity to work and contribute at typo speed 
-***SOFT SKILLS***
-:rose:Organizational skills
-:rose:Sense of responsibility
+and capacity to work and contribute at typo speed .
+
+##**SOFT SKILLS**
+#:rose:Organizational skills
+#:rose:Sense of responsibility
 :rose:Teamwork
 :rose:Honesty
 :rose:Creativity
 :rose:Initiative
 
-****LANGUAGE****
+##**LANGUAGE***
 Spanish:Native Language :speech_balloon:
 English :A2 :left_speech_bubble:
-****KNOWLEDGE****
+##**KNOWLEDGE**
