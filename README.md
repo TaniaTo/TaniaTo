@@ -15,7 +15,7 @@ and capacity to work and contribute at typo speed .
 :rose:Creativity
 :rose:Initiative
 
-##**LANGUAGE***
+#**LANGUAGE***
 Spanish:Native Language :speech_balloon:
 English :A2 :left_speech_bubble:
-##**KNOWLEDGE**
+#**KNOWLEDGE**
