@@ -8,8 +8,8 @@ I am a person eager to learn new technological tools with a great desire
 and capacity to work and contribute at typo speed .
 
 **SOFT SKILLS:**
-!:rose:(Organizational skills)
-!:rose:Sense of responsibility
+*:rose:(Organizational skills)
+*:rose:Sense of responsibility
 :rose:Teamwork
 :rose:Honesty
 :rose:Creativity
