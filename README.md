@@ -7,14 +7,15 @@ I am a person eager to learn new technological tools with a great desire
 and capacity to work and contribute at typo speed .
 
 **SOFT SKILLS:**
---Organizational skills
---Sense of responsibility
+--
+:rose:Organizational skills
+:rose:Sense of responsibility
 :rose:Teamwork
 :rose:Honesty
 :rose:Creativity
 :rose:Initiative
 
-#**LANGUAGE***
+**LANGUAGE**
 Spanish:Native Language :speech_balloon:
 English :A2 :left_speech_bubble:
-#**KNOWLEDGE**
+**KNOWLEDGE**
