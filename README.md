@@ -17,6 +17,6 @@ and capacity to work and contribute at typo speed .
 
 **LANGUAGE**
 --
-Spanish:Native Language :speech_balloon:
-English :A2 :left_speech_bubble:
+:maple_leaf:Spanish:Native Language 
+:maple_leaf:English :A2 
 **KNOWLEDGE**
