@@ -19,4 +19,6 @@ and capacity to work and contribute at typo speed .
 --
 :maple_leaf:Spanish:Native Language 
 :maple_leaf:English :A2 
+
 **KNOWLEDGE**
+--
